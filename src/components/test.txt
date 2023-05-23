@@ -1,0 +1,54 @@
+ const [data,setData] = useState(
+        [
+          {
+            "price": 2400, 
+            "seat_no": "U1", 
+            "status": "B"
+          }, 
+          {
+            "price": 2800, 
+            "seat_no": "L1", 
+            "status": "B"
+          }, 
+          {
+            "price": 1600, 
+            "seat_no": "L2", 
+            "status": "A"
+          }, 
+          {
+            "price": 1848, 
+            "seat_no": "L3", 
+            "status": "B"
+          }, 
+          {
+            "price": 2071, 
+            "seat_no": "U2", 
+            "status": "A"
+          }, 
+          {
+            "price": 1790, 
+            "seat_no": "U3", 
+            "status": "B"
+          }, 
+          {
+            "price": 2400, 
+            "seat_no": "U4", 
+            "status": "B"
+          }, 
+          {
+            "price": 2410, 
+            "seat_no": "L4", 
+            "status": "A"
+          }, 
+          {
+            "price": 2338, 
+            "seat_no": "L5", 
+            "status": "B"
+          }, 
+          {
+            "price": 2338, 
+            "seat_no": "L6", 
+            "status": "A"
+          }
+        ]
+    )

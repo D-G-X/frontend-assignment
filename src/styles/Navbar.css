@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Laila:wght@700&display=swap');
+
+.brand-logo{
+    font-family: 'Laila';
+    font-style: normal;
+}
+
+nav{
+    display: inline-block; 
+    padding: 0px 0px 0px 1em;
+}
+
+.links{
+    padding-right: 25%; 
+    float: left;
+} 
+
+.navbar-links{
+    text-decoration: none;
+    color: #505f76;
+    font-weight: 700;
+}
+
+
+.login-signup{
+    float: right;
+}
+
+.signup {
+    text-decoration: none;
+    color: white;
+    border: 1px solid #5663da;
+    font-weight: 600;
+}
+
+.signup:hover{
+    background: white;
+    color: #5663da;
+    border: 1px solid #5663da;
+}
