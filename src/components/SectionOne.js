@@ -21,7 +21,6 @@ function SectionOne(){
             <div className="p-5 md:block">
                 <div className="">
                     <div className="relative">
-                        <img src="/images/zigzag1.png" className="absolute z-10 bg-white top-72 -left-20 w-[30%] hidden md:inline-block" alt="" />
                         <img src="/images/analytics.png" className="absolute z-10 bg-white top-72 -left-20 w-[30%] hidden md:inline-block" alt="" />
                         <img src="/images/pic2.jpg" className="border z-0 rounded-br-[60px] rounded-tl-[60px]" alt="" />
                         <img src="/images/analytics2.jpg" className="absolute z-20 bg-white top-48 -right-4 w-[30%] hidden md:inline-block" alt="" />
